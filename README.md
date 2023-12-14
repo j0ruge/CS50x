@@ -7,3 +7,6 @@
 #### bit
 
 💡 = 1
+
+
+https://youtu.be/IDDmrzzB14M?t=1489
