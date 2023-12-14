@@ -21,7 +21,8 @@ base-2 - binary
 #### Alphabet (ASCII - American Standard Code for Information Interchange)
 
 |Letter| Decimal | Binary|
-|----|----|----|
-|A |65| 0100 0001|
+|:----:|----|----|
+|A|65| 0100 0001|
+|!|33||
 
 https://youtu.be/IDDmrzzB14M?t=1489
