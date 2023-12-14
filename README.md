@@ -31,5 +31,9 @@ base-2 - binary
 
 Mas ASCII, são apenas 8 bits, são suficientes para o inglês, mas não para os idiomas do mundo, daí foi necessário utilizar mais bits, para comportar todas as opções, e para solucionar esse problema foi criado o Unicode.
 
+#### RGB
+
+Composto de 3 bytes para representar cores, 1 byte para **R**ed, 1 byte para **G**reen e 1 byte para **B**lue
+
 
 https://youtu.be/IDDmrzzB14M?t=1489
