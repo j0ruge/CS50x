@@ -36,4 +36,10 @@ Mas ASCII, são apenas 8 bits, são suficientes para o inglês, mas não para os
 Composto de 3 bytes para representar cores, 1 byte para **R**ed, 1 byte para **G**reen e 1 byte para **B**lue, são 24 bits (3 bytes) para representar uma cor em RGB, cada byte pode ir de 0 até 255 (valor em decimal)
 
 
-https://youtu.be/IDDmrzzB14M?t=1489
+## abstraction
+
+https://youtu.be/IDDmrzzB14M?t=3372
+
+
+
+
