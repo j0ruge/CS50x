@@ -17,4 +17,9 @@ base-2 - binary
 
 1 byte = 8 bits
 
+
+#### Alphabet
+
+A = 65
+
 https://youtu.be/IDDmrzzB14M?t=1489
