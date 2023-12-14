@@ -28,4 +28,8 @@ base-2 - binary
 |!|33||
 ||||
 
+
+Mas ASCII, são apenas 8 bits, são suficientes para o inglês, mas não para os idiomas do mundo, daí foi necessário utilizar mais bits, para comportar todas as opções, e para solucionar esse problema foi criado o Unicode.
+
+
 https://youtu.be/IDDmrzzB14M?t=1489
