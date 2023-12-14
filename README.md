@@ -23,6 +23,9 @@ base-2 - binary
 |Letter| Decimal | Binary|
 |:----:|----|----|
 |A|65| 0100 0001|
+|1|49||
+|0|48||
 |!|33||
+||||
 
 https://youtu.be/IDDmrzzB14M?t=1489
