@@ -18,7 +18,7 @@ base-2 - binary
 1 byte = 8 bits
 
 
-#### Alphabet (ASCII - American Standard Code for Information Interchange)
+#### ASCII - American Standard Code for Information Interchange
 
 |Letter| Decimal | Binary|
 |:----:|----|----|
