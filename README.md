@@ -41,6 +41,24 @@ Composto de 3 bytes para representar cores, 1 byte para **R**ed, 1 byte para **G
 
 ## abstraction
 
+
+## pseudocode
+1:04:23
+
+## Scratch
+
+1:10
+
+
+* **Function** é a implementação de um algoritmo
+* **Events**, são gatilhos que o sistema usa para poder realizar coisas, como um clique de mouse, clique duplo, segurar o botão e arrastar, coisas do tipo
+* Side effect resultado visual de algo (output)
+
+Input, argument
+Algoritmo, function
+Output, side effect
+
+
 https://youtu.be/IDDmrzzB14M?t=3372
 
 
