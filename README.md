@@ -106,12 +106,25 @@ https://youtu.be/IDDmrzzB14M?t=3372
 
 ## Section
 
-https://cs50.harvard.edu/college/2022/fall/labs/1/
+https://cs50.harvard.edu/college/2022/fall/labs/1/2
 
+### Labs
 
-### Lab
+https://cs50.harvard.edu/x/2023/problems/1/
+
 
 https://cs50.harvard.edu/x/2023/labs/1/
+
+#### Half
+
+https://cs50.harvard.edu/x/2023/problems/1/half/
+
+#### Prime
+
+https://cs50.harvard.edu/x/2023/problems/1/prime/
+
+https://noic.com.br/materiais-informatica/curso/math-02/
+
 
 ## Shorts
 
