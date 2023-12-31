@@ -200,5 +200,3 @@ If you created a personal access token but forgot it (or it expired)
 Visit https://github.com/settings/tokens, click Delete next to your old personal access token, then click I understand, delete this token.
 
 Follow all of the same Personal Access Token steps, above, again.
-
-
