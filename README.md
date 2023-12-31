@@ -64,3 +64,47 @@ https://youtu.be/IDDmrzzB14M?t=3372
 
 
 
+## Week 1 - C
+
+### comments
+
+2:03:00 do vídeo
+
+### functions
+
+
+### operators
+
+2:12:09
+
+
+### format code
+
+2:18:17
+
+
+```%i``` para *integers*
+`%li` para *long integers*
+`%f` para *floats*
+
+
+### truncation 
+2:19:16
+
+
+### type casting
+
+```
+ float z = (float) x / (float) y;
+```
+
+### floating-point imprecision
+
+2:23:00
+
+### Troubleshootings
+
+#### error: implicit declaration of function 'get_rows' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
+    
+Acontece neste caso, porque as funções estão embaixo da main, mas para isso podemos manter a função e baixo e copiar somente o hearder dela acima da main que irá resulver o problema.
+

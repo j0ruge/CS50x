@@ -1,4 +1,20 @@
+#include <cs50.h>
 #include <stdio.h>
+
+
+int get_rows(void);
+void wall_matrix(int rows_quantity, int lines_quantity);
+
+int main(void)
+{
+    //question_marks(4);
+    //wall_marks(3);
+
+    int rows = get_rows();
+
+
+    wall_matrix(rows, 4);
+}
 
 
 void question_marks(int mumber_of_marks)
@@ -31,9 +47,18 @@ void wall_matrix(int rows_quantity, int lines_quantity)
     }
 }
 
-int main(void)
+int get_rows(void)
 {
-    //question_marks(4);
-    //wall_marks(3);
-    wall_matrix(2, 4);
+    int rows_quantity_input;
+
+    do
+    {
+        rows_quantity_input = get_int("Size of Rows: \n");
+    }
+    while(rows_quantity_input < 1);
+    return rows_quantity_input;
 }
+
+
+
+
