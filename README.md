@@ -64,7 +64,9 @@ https://youtu.be/IDDmrzzB14M?t=3372
 
 
 
-## Week 1 - C
+# Week 1 - C
+
+## Lecture
 
 ### comments
 
@@ -101,6 +103,10 @@ https://youtu.be/IDDmrzzB14M?t=3372
 ### floating-point imprecision
 
 2:23:00
+
+## Section
+
+https://cs50.harvard.edu/college/2022/fall/labs/1/
 
 ### Troubleshootings
 
