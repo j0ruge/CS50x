@@ -2,17 +2,14 @@
 
 [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
-
+[submit.cs50.io](https://submit.cs50.io/users/j0ruge)
 
 ## [Week 0 - Scratch](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/block-v1:HarvardX+CS50+X+type@sequential+block@a8730f85a9a94d41a784a58c4b6d8bdc)
 
-
 * [Lecture](https://video.cs50.io/IDDmrzzB14M?screen=vm_vgY75qT4)
-
 
 base-1 - unary
 base-2 - binary
-
 
 #### bit
 
@@ -118,6 +115,8 @@ https://cs50.harvard.edu/x/2023/labs/1/
 
 https://cs50.harvard.edu/x/2023/problems/1/half/
 
+Results -> https://submit.cs50.io/check50/cc58156a8b411682291e03f38f9a6f9642ad0210
+
 #### Prime
 
 * https://cs50.harvard.edu/x/2023/problems/1/prime/
@@ -125,6 +124,11 @@ https://cs50.harvard.edu/x/2023/problems/1/half/
 [Teste de Primalidade em O(N−−√)](https://noic.com.br/materiais-informatica/curso/math-02/)
 
 ## Shorts
+
+## Problem Set 1
+
+- [X] Hello, It’s Me
+
 
 ### Troubleshootings
 
