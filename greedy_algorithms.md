@@ -6,3 +6,8 @@ An algorithmic paradigm that follow the problem solving approach of making the *
 
 * **Pros** - simple, easy to implement, run fast
 * **Cons** - Very often they don't provide a globally optimum solution.
+
+
+https://www.youtube.com/watch?v=ARvQcqJ_-NY&ab_channel=AbdulBari
+
+https://www.freecodecamp.org/news/greedy-algorithms/
