@@ -8,6 +8,42 @@ An algorithmic paradigm that follow the problem solving approach of making the *
 * **Cons** - Very often they don't provide a globally optimum solution.
 
 
-https://www.youtube.com/watch?v=ARvQcqJ_-NY&ab_channel=AbdulBari
+A Feasible Solution means a solution that satisfies some constraint
+
+
+
+## General Solution Method
+
+[3. Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&ab_channel=AbdulBari)
+
+[7:38](https://youtu.be/ARvQcqJ_-NY?t=458)
+
+
+
+$n=5;$
+
+a
+
+|$a_1$|$a_2$|$a_3$|$a_4$|$a_5$|
+|---|---|---|---|---|
+|1|2|3|4|5|
+
+
+```c
+
+greedy_algorithm(a,n)
+{
+    for i=1 to n do
+    {
+        x = select(a);
+        if feasible(x) them
+        {
+            solution = solution + x;
+        }
+    }
+}
+
+```
+
 
 https://www.freecodecamp.org/news/greedy-algorithms/

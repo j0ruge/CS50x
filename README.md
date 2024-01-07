@@ -127,9 +127,10 @@ Results -> https://submit.cs50.io/check50/cc58156a8b411682291e03f38f9a6f9642ad02
 
 ## [Problem Set 1](https://cs50.harvard.edu/x/2024/psets/1/)
 
-- [X] Hello, It’s Me
-- [X] Mario Less
-- [X] Mario More
+* [X] [Hello, It’s Me](https://cs50.harvard.edu/x/2024/psets/1/me/)
+* [X] [Mario Less](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
+* [X] [Mario More](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
+* [X] [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/)
 
 ### Troubleshootings
 
