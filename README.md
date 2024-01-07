@@ -58,9 +58,6 @@ Output, side effect
 
 https://youtu.be/IDDmrzzB14M?t=3372
 
-
-
-
 # Week 1 - C
 
 ## Lecture
