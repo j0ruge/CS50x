@@ -60,6 +60,8 @@ https://youtu.be/IDDmrzzB14M?t=3372
 
 # Week 1 - C
 
+[Instalando o compilador Clang no Windows](./Lectures/Week_1/c_lang_windows.md)
+
 ## Lecture
 
 ### comments
