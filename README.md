@@ -4,11 +4,13 @@
 
 [submit.cs50.io](https://submit.cs50.io/users/j0ruge)
 
+🔗 [My Study on a Git Repository](https://github.com/code50/46424602)
+
 ## [Week 0 - Scratch](Lectures/Week_0/README.md)
 
 ## [Week 1 - C](Lectures/Week_1/README.md)
 
-## [Week 2](Lectures/Week_2/README.md)
+## [Week 2 - Arrays](Lectures/Week_2/README.md)
 
 ## GitHub Access
 
