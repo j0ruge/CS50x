@@ -1,8 +1,10 @@
 # CS50x
 
+![Quack](https://cs50.dev/static/ddb50.gif){ width=10% }
+
 [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
-[Visual Studio Code for Cs50](https://cs50.dev/) ![Quack](https://cs50.dev/static/ddb50.gif)
+[Visual Studio Code for Cs50](https://cs50.dev/)
 
 [submit.cs50.io](https://submit.cs50.io/users/j0ruge)
 
