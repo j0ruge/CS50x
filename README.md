@@ -2,6 +2,8 @@
 
 [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
+[Visual Studio Code for Cs50](https://cs50.dev/) ![Quack](https://cs50.dev/static/ddb50.gif)
+
 [submit.cs50.io](https://submit.cs50.io/users/j0ruge)
 
 🔗 [My Study on a Git Repository](https://github.com/code50/46424602)
