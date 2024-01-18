@@ -4,7 +4,7 @@
 
 
 
-Até https://www.youtube.com/watch?v=tnbPMzwSN7A&t=17s&ab_channel=CS50 31:51
+https://www.youtube.com/watch?v=tnbPMzwSN7A&t=17s&ab_channel=CS50
 ---
 
 # Template
