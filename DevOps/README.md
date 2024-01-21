@@ -1,0 +1,1 @@
+[Offline, with Docker](https://cs50.readthedocs.io/cs50.dev/#offline-with-docker)
