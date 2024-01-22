@@ -5,6 +5,16 @@
 
 
 https://www.youtube.com/watch?v=tnbPMzwSN7A&t=17s&ab_channel=CS50
+
+
+## Shorts
+
+### Command Line
+
+* argc (Argument Count);
+* argv (Argument Vector);
+
+
 ---
 
 # Template

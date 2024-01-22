@@ -1,5 +1,7 @@
 # CS50x
 
+https://cs50.harvard.edu/x/2024/
+
 [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 [Visual Studio Code for Cs50](https://cs50.dev/)
