@@ -17,6 +17,10 @@ https://www.youtube.com/watch?v=tnbPMzwSN7A&t=17s&ab_channel=CS50
 *  [N0 V0w3ls](https://cs50.harvard.edu/x/2023/problems/2/no-vowels/)
 *  [Password](https://cs50.harvard.edu/x/2023/problems/2/password/)
 
+
+## [Lab 2: Scrabble](https://cs50.harvard.edu/x/2023/labs/2/)
+
+
 ---
 
 # Template
