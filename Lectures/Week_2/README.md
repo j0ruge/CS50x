@@ -20,6 +20,13 @@ https://www.youtube.com/watch?v=tnbPMzwSN7A&t=17s&ab_channel=CS50
 
 ## [Lab 2: Scrabble](https://cs50.harvard.edu/x/2023/labs/2/)
 
+## [Problem Set 2](https://cs50.harvard.edu/x/2023/psets/2/)
+
+- [x] [Bulbs](https://cs50.harvard.edu/x/2023/psets/2/bulbs/), if feeling less comfortable
+- [x] [Caesar](https://cs50.harvard.edu/x/2023/psets/2/caesar/), if feeling less comfortable
+- [ ] [Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/), if feeling more comfortable
+- [ ] [Wordle50](), if feeling more comfortable
+
 ---
 
 # Template
