@@ -10,11 +10,15 @@ https://cs50.harvard.edu/x/2024/
 
 🔗 [My Study on a Git Repository](https://github.com/code50/46424602)
 
-## [Week 0 - Scratch](Lectures/Week_0/README.md)
+## [Week 0 - Scratch](Lectures/Week_00/README.md)
 
-## [Week 1 - C](Lectures/Week_1/README.md)
+## [Week 1 - C](Lectures/Week_01/README.md)
 
-## [Week 2 - Arrays](Lectures/Week_2/README.md)
+## [Week 2 - Arrays](Lectures/Week_02/README.md)
+
+## [Week 3 - Algorithms](Lectures/Week_03/README.md)
+
+
 
 ## GitHub Access
 
