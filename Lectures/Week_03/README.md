@@ -6,31 +6,42 @@
 |Algorithm|$Big 0$|$Big\Omega$|
 |---|---|---|
 |Selection Sort|$O(n²)$|$\Omega(n²)$|
-|Buble Sort|$O(n²)$|$\Omega(n)$|
+|Bubble Sort|$O(n²)$|$\Omega(n)$|
 |Merge Sort|$O(n\log{}n)$|$\Omega(n\log{}n)$|
 
 `sorted50000.txt`
 |Program|$Big 0$ _runtime_|$Big\Omega$ _runtime_|
 |---|---|---|
-|.\sort1|0m5,311s|0m0,926s|
-|.\sort2|0m0,766s|0m0,775s|
-|.\sort3|0m3,165s|0m2,686s|
+|.\sort1|5.04s|0.81s|
+|.\sort2|0.61s|0.71s|
+|.\sort3|2.81s|2.61s|
 
 `reversed50000.txt`
 
-sort3 -> 3,744 (_Buble Sort??_)
-sort2 -> 0,326 (_Merge Sort??_)
-sort1 -> 6,073 (_Selection Sort??_)
-
-sort3 -> 0m2,931s (_Buble Sort??_)
-sort2 -> 0m0,836s (_Merge Sort??_)
-sort1 -> 0m5,601s (_Selection Sort??_)
-
 `sorted50000.txt`
 
-sort3 -> 0m2,727s (_Buble Sort??_)
-sort2 -> 0m0,975s (_Merge Sort??_)
-sort1 -> 0m1,068s (_Selection Sort??_)
+```
+sort1 uses: Bubble Sort
+
+How do you know?:
+Takes 5.04s to sort reversed50000.txt
+Takes 0.81s to sort sorted50000.txt
+Because comparing the worst case, this sort1 is more performative than sort3
+
+sort2 uses: Merge Sort
+
+How do you know?:
+Takes 0.61s to sort reversed50000.txt
+Takes 0.71s to sort sorted50000.txt
+Because it is the most efficient algorithm in both test scenarios
+
+sort3 uses: Selection Sort
+
+How do you know?:
+Takes 2.81s to sort reversed50000.txt
+Takes 2.61s to sort sorted50000.txt
+
+```
 
 
 ---
