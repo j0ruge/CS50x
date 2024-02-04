@@ -1,5 +1,16 @@
 # [Week 3 - Algorithms](https://cs50.harvard.edu/x/2024/weeks/3/)
 
+### Sorting Algorithms
+
+
+||||
+|---|---|---|
+|Selection Sort|$O(n²)$|$\Omega(n²)$|
+|Buble Sort|$O(n²)$|$\Omega(n)$|
+|Merge Sort|$O(n\log{}n)$|$\Omega(n\log{}n)$|
+
+---
+
 ## [Section](https://cs50.harvard.edu/x/2024/sections/3/)
 
 ## [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
@@ -8,3 +19,8 @@
 - [ ] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
 - [ ] [Runoff](https://cs50.harvard.edu/x/2024/psets/3/runoff/), if feeling more or less comfortable
 - [ ] [Tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/), if feeling very, very, very comfortable
+
+
+## References
+
+[Complete list of Bachmann-Landau notations](https://texblog.org/2014/06/24/big-o-and-related-notations-in-latex/)
