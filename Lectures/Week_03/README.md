@@ -3,11 +3,35 @@
 ### Sorting Algorithms
 
 
-||||
+|Algorithm|$Big 0$|$Big\Omega$|
 |---|---|---|
 |Selection Sort|$O(n²)$|$\Omega(n²)$|
 |Buble Sort|$O(n²)$|$\Omega(n)$|
 |Merge Sort|$O(n\log{}n)$|$\Omega(n\log{}n)$|
+
+`sorted50000.txt`
+|Program|$Big 0$ _runtime_|$Big\Omega$ _runtime_|
+|---|---|---|
+|.\sort1|0m5,311s|0m0,926s|
+|.\sort2|0m0,766s|0m0,775s|
+|.\sort3|0m3,165s|0m2,686s|
+
+`reversed50000.txt`
+
+sort3 -> 3,744 (_Buble Sort??_)
+sort2 -> 0,326 (_Merge Sort??_)
+sort1 -> 6,073 (_Selection Sort??_)
+
+sort3 -> 0m2,931s (_Buble Sort??_)
+sort2 -> 0m0,836s (_Merge Sort??_)
+sort1 -> 0m5,601s (_Selection Sort??_)
+
+`sorted50000.txt`
+
+sort3 -> 0m2,727s (_Buble Sort??_)
+sort2 -> 0m0,975s (_Merge Sort??_)
+sort1 -> 0m1,068s (_Selection Sort??_)
+
 
 ---
 
