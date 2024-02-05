@@ -50,8 +50,8 @@ Takes 2.61s to sort sorted50000.txt
 
 ## [Problem Set 3](https://cs50.harvard.edu/x/2024/psets/3/)
 
-- [ ] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
-- [ ] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
+- [x] [Sort](https://cs50.harvard.edu/x/2024/psets/3/sort/)
+- [x] [Plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
 - [ ] [Runoff](https://cs50.harvard.edu/x/2024/psets/3/runoff/), if feeling more or less comfortable
 - [ ] [Tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/), if feeling very, very, very comfortable
 
