@@ -6,8 +6,6 @@
 
 ## [Section](https://cs50.harvard.edu/x/2024/sections/4/)
 
-
-
 [CS50 2023 - Week 4 - Section](https://www.youtube.com/watch?v=m2WzPVd4QIc)
 
 continuar -> https://youtu.be/m2WzPVd4QIc?t=609
